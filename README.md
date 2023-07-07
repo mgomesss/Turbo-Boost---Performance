@@ -1,7 +1,7 @@
 # Turbo Boost - Performance (Versão GUI .NET MAUI)
 
 
-Bem-vindo ao meu projeto pessoal agora reconstruído usando .NET MAUI. Originalmente desenvolvido como uma aplicação console no .NET Framework 7, este projeto evoluiu para oferecer uma interface gráfica amigável ao usuário, permitindo mais controle e interação. Continuamos com o mesmo objetivo: tornar o seu computador mais performático para programas e jogos.
+Bem-vindo ao meu projeto pessoal agora reconstruído usando .NET MAUI. Originalmente desenvolvido como uma aplicação console no .NET 7, este projeto evoluiu para oferecer uma interface gráfica amigável ao usuário, permitindo mais controle e interação. Continuamos com o mesmo objetivo: tornar o seu computador mais performático para programas e jogos.
 
 ## Novas Funções do Programa
 
