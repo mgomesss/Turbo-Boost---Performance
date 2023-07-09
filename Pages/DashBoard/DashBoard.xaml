@@ -1,0 +1,62 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Turbo_Boost___Performance.DashBoard"
+             Title="DashBoard"
+             BackgroundColor="#1C1C1C">
+
+    <ScrollView>
+        <Grid Padding="10" ColumnSpacing="10" RowSpacing="10">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Row="0" Grid.Column="0"
+                    Text="🚀 Modo Desempenho Máximo"
+                    BackgroundColor="#FF4081"
+                    TextColor="White"
+                    HeightRequest="50"
+                    WidthRequest="270"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" />
+
+            <Button Grid.Row="1" Grid.Column="0"
+                    Text="💡 Modo Economia de Energia"
+                    BackgroundColor="#008000"
+                    TextColor="White"
+                    HeightRequest="50"
+                    WidthRequest="270"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" />
+
+            <Button Grid.Row="2" Grid.Column="0"
+                    Text="⚡ Turbo Boost"
+                    BackgroundColor="#FFA500"
+                    TextColor="White"
+                    HeightRequest="50"
+                    WidthRequest="270"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" />
+
+            <Button Grid.Row="3" Grid.Column="0"
+                    Text="🔥 Overclock"
+                    BackgroundColor="#FF0000"
+                    TextColor="White"
+                    HeightRequest="50"
+                    WidthRequest="270"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" />
+
+
+        </Grid>
+    </ScrollView>
+
+</ContentPage>
